@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+D:\Concordia\Code\Evosuite\.metadata\.plugins\org.eclipse.jdt.core
-1602128660.index
-81708833.index
